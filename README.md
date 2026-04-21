@@ -2,6 +2,9 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E4E4E4size=35&center=true&vCenter=true&width=1000&lines=Prazer,+meu+nome+é+Lucas+Andrade;Sou+Analista+de+dados+;Com+foco+em+Data+Engineer;Bem-Vindos!)](https://git.io/typing-svg) 
 
+<p align="left">
+  <img src="EMR.svg" width="40"/>
+</p>
  
 ### Data Processing:
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)&nbsp;
@@ -20,7 +23,7 @@
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-NUMPY-0D1117?style=for-the-badge&logo=numpy&labelColor=0D1117)&nbsp;
 ![Handlebars](https://img.shields.io/badge/-AMAZON_DYNAMODDB-0D1117?style=for-the-badge&logo=amazondynamodb&labelColor=0D1117)&nbsp;
-![Handlebars](https://img.shields.io/badge/-APACHE_SPARK-0D1117?style=for-the-badge&logo=apachespark&labelColor=0D1117)&nbsp;
+![Handlebars](https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?style=for-the-badge&logo=Apache-Spark&logoColor=white)&nbsp;
 ![Handlebars](https://img.shields.io/badge/-CANVA-0D1117?style=for-the-badge&logo=canva&labelColor=0D1117)&nbsp;
 
   
