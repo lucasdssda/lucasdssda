@@ -24,7 +24,7 @@
 ![Handlebars](https://img.shields.io/badge/-CANVA-0D1117?style=for-the-badge&logo=canva&labelColor=0D1117)&nbsp;
 
   
-### Studying in this moment:
+### Foco Atual:
 ![Node.JS](https://img.shields.io/badge/-STREAMLIT-0D1117?style=for-the-badge&logo=streamlit&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1437E8&height=120&section=header"/>
