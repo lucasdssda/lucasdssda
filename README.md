@@ -20,7 +20,7 @@
 ![Figma](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white)&nbsp;
 ![Handlebars](https://img.shields.io/badge/-AMAZON_DYNAMODDB-0D1117?style=for-the-badge&logo=amazondynamodb&labelColor=0D1117)&nbsp;
 ![Handlebars](https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?style=for-the-badge&logo=Apache-Spark&logoColor=white)&nbsp;
-![Handlebars](https://img.shields.io/badge/-CANVA-0D1117?style=for-the-badge&logo=canva&labelColor=0D1117)&nbsp;
+![Handlebars](https://img.shields.io/badge/SurveyMonkey-00BF6F.svg?style=for-the-badge&logo=SurveyMonkey&logoColor=white)&nbsp;
 
   
 ### Automação:
