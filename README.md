@@ -4,13 +4,13 @@
 
  
 ### Habilidades:
-![Python](https://img.shields.io/badge/-PYTHON-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-DATABRICKS-0D1117?style=for-the-badge&logo=databricks&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)&nbsp;
+![Databricks](https://img.shields.io/badge/Databricks-FF3621.svg?style=for-the-badge&logo=Databricks&logoColor=white)&nbsp;
 ![React.js](https://img.shields.io/badge/-GOOGLE_COLAB-0D1117?style=for-the-badge&logo=googlecolab&labelColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-PANDAS-0D1117?style=for-the-badge&logo=pandas&labelColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-JUPYTER_NOTEBOOK-0D1117?style=for-the-badge&logo=jupyter&labelColor=0D1117)&nbsp;
 
-### Cloud:
+### Storage & Databases:
 ![Git](https://img.shields.io/badge/-AMAZON_RDS-0D1117?style=for-the-badge&logo=amazonrds&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-AMAZON_S3-0D1117?style=for-the-badge&logo=amazons3&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-AMAZON_ATHENA-0D1117?style=for-the-badge&logo=amazon&labelColor=0D1117)&nbsp;
@@ -24,8 +24,9 @@
 ![Handlebars](https://img.shields.io/badge/-CANVA-0D1117?style=for-the-badge&logo=canva&labelColor=0D1117)&nbsp;
 
   
-### Foco Atual:
-![Node.JS](https://img.shields.io/badge/-STREAMLIT-0D1117?style=for-the-badge&logo=streamlit&labelColor=0D1117&textColor=0D1117)&nbsp;
+### Automação:
+![N8N](https://img.shields.io/badge/n8n-EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white)&nbsp;
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1437E8&height=120&section=header"/>
 
