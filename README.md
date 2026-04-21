@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1437E8&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E4E4E4size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Lucas+Andrade;I+study+database+at+Impacta;I+am+from+São+Paulo+SP;Be+Welcome!)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E4E4E4size=35&center=true&vCenter=true&width=1000&lines=Prazer,+meu+mome+é+Lucas+Andrade;Sou+Analista+de+dados+;Com+foco+em+Data+Engineer;Bem-Vindos!)](https://git.io/typing-svg) 
 
  
 ### Main skills:
@@ -28,3 +28,8 @@
 ![Node.JS](https://img.shields.io/badge/-STREAMLIT-0D1117?style=for-the-badge&logo=streamlit&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1437E8&height=120&section=header"/>
+
+
+
+
+
