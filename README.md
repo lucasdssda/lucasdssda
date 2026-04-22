@@ -16,7 +16,7 @@
   </p>
 
   <p>
-    Sou um profissional de dados movido pela curiosidade e por resolver problemas complexos. No meu primeiro ano de atuação prática no mercado, tenho focado em criar a ponte entre a <b>Análise Estratégica de Negócios</b> e a <b>Engenharia de Dados</b>, entregando soluções que otimizam processos e geram inteligência real para a indústria.
+    Profissional de dados com foco em Engenharia de Dados e Analytics, atuando na construção de soluções que transformam dados em valor para o negócio. Tenho experiência prática no desenvolvimento de pipelines, análise de dados e otimização de processos, conectando necessidades de negócio a soluções técnicas escaláveis. Atualmente trabalho como Analista de Dados, atuando na coleta, tratamento e modelagem de dados, além da construção de consultas e análises que suportam decisões estratégicas
   </p>
 </div>
 
