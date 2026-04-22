@@ -2,9 +2,6 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E4E4E4size=35&center=true&vCenter=true&width=1000&lines=Prazer,+meu+nome+é+Lucas+Andrade;Sou+Analista+de+dados+;Com+foco+em+Data+Engineer;Bem-Vindos!)](https://git.io/typing-svg) 
 
-<div align="center">
-  <h1>👋 Olá, eu sou o Lucas de Andrade!</h1>
-  <h3>Analista de Dados em Evolução | Foco em Engenharia de Dados e Automação</h3>
   
   <p align="center">
     <a href="https://www.linkedin.com/in/lucas-andrade7722/">
@@ -68,17 +65,41 @@ Minha prática diária é voltada para a construção de pipelines robustos e es
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 <img src="https://img.shields.io/badge/SurveyMonkey-00BF6F?style=for-the-badge&logo=surveymonkey&logoColor=white" />
 
-</div>
+## Tecnologias e Ferramentas
 
-<br/>
+Aqui estão as tecnologias e ferramentas que fazem parte do meu dia a dia no estágio e também dos meus projetos práticos de estudo focados em Engenharia de Dados. Organizei por áreas para mostrar onde aplico cada uma:
 
-## 🏗️ Deep Dive: Arquitetura e Conceitos
+---------------------------------------
 
-- **Medallion Architecture:** Organização de Data Lakes no AWS S3 utilizando as camadas *Landing*, *Processing* e *Curated*.
-- **Processamento Distribuído:** Desenvolvimento de jobs escaláveis via PySpark e execução no Amazon EMR.
-- **Orquestração & Observabilidade:** Gerenciamento de fluxos via AWS Step Functions e monitoramento de performance via Spark History Server.
 
----
-<div align="center">
-  <i>Sempre aberto a conversas sobre Arquitetura de Dados, IA Generativa e, claro, um bom som (Rominimal / Microhouse)! 🎧</i>
+## Tecnologias e Ferramentas
+
+Aqui estão as tecnologias e ferramentas que fazem parte do meu dia a dia e também dos meus projetos práticos de estudo focados em Engenharia de Dados. Organizei pelas suas funções principais:
+
+<div align="left">
+
+### Languages & Data Processing
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Amazon%20EMR-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+
+### Databases & Cloud Storage
+<img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
+<img src="https://img.shields.io/badge/Amazon%20Athena-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+<img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white" />
+<img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+### Data Orchestration & Automation
+<img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/Step%20Functions-FF4F8B?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+
+### BI, AI & Integrations
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/SurveyMonkey-00BF6F?style=for-the-badge&logo=surveymonkey&logoColor=white" />
+
 </div>
