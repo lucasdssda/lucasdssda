@@ -66,4 +66,8 @@ Aqui estão as tecnologias e ferramentas que fazem parte do meu dia a dia e tamb
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/SurveyMonkey-00BF6F?style=for-the-badge&logo=surveymonkey&logoColor=white" />
 
-</div>
+<br><br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1437E8&height=120&section=header"/>
+
+
