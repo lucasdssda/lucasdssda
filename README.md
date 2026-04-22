@@ -35,41 +35,6 @@ Atuo na **Central de Pesquisas**, um núcleo estratégico onde transformo dados 
 * **Escola de Agentes Sindusfarma (IA & Automação):** Integro o Squad Digital no desenvolvimento de soluções de Inteligência Artificial e automações avançadas via **n8n**, com foco em ganho de eficiência operacional.
 <br/>
 
-## 🛠️ Stack Tecnológica & Arquitetura de Dados
-
-Minha prática diária é voltada para a construção de pipelines robustos e escaláveis na nuvem:
-
-<div align="left">
-
-###  Data Processing & Big Data
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/Amazon%20EMR-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" />
-
-###  Data Storage & Databases
-<img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
-<img src="https://img.shields.io/badge/Amazon%20Athena-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-<img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white" />
-<img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-
-###  Data Pipelines & Orchestration
-<img src="https://img.shields.io/badge/Step%20Functions-FF4F8B?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-<img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
-
-###  Data Analytics & AI Integrations
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/SurveyMonkey-00BF6F?style=for-the-badge&logo=surveymonkey&logoColor=white" />
-
-## Tecnologias e Ferramentas
-
-Aqui estão as tecnologias e ferramentas que fazem parte do meu dia a dia no estágio e também dos meus projetos práticos de estudo focados em Engenharia de Dados. Organizei por áreas para mostrar onde aplico cada uma:
-
----------------------------------------
-
 
 ## Tecnologias e Ferramentas
 
