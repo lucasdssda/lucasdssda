@@ -32,7 +32,7 @@ Trabalho na **Central de Pesquisas** lidando diretamente com os dados da indúst
   
 *  **Central de Pesquisas & Benchmarking Setorial:** Atuação de ponta a ponta na estruturação de **mais de 100 pesquisas** voltadas para a Indústria Farmacêutica. Sou responsável por todo o ciclo de vida da informação: desde a formulação estratégica do questionário e implementação para respostas, até a coleta, tabulação dos resultados e entrega dos relatórios aos respondentes. Os dados gerados subsidiam decisões críticas em áreas como **Sindical Trabalhista, Assuntos Regulatórios, Mercado e Assuntos Jurídicos**, incluindo a condução de pesquisas oficiais diretamente para o Ministério da Saúde.**.
 
-* **Escola de Agentes Sindusfarma (IA & Automação):** Integro o Squad Digital no desenvolvimento de soluções de Inteligência Artificial e automações avançadas via **n8n**, com foco em ganho de eficiência operacional.
+* **Escola de Agentes (IA & Automação):** Integro o Squad Digital no desenvolvimento de soluções de Inteligência Artificial e automações avançadas via **n8n**, com foco em ganho de eficiência operacional.
 <br/>
 
 
