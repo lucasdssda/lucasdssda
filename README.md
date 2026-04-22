@@ -22,17 +22,17 @@
 
 <br/>
 
-## 🎯 O Que Eu Faço e Meu Impacto
+## O Que Eu Faço e Meu Impacto
 
 Atuo na **Central de Pesquisas**, um núcleo estratégico onde transformo dados complexos em ativos de decisão para a indústria nacional, com foco na construção de bases sólidas para benchmarking e suporte à governança corporativa.
 
-### 🚀 Projetos de Alto Impacto:
+### Projetos de Alto Impacto:
 
-* 🏗️ **1º Censo da Indústria Farmacêutica (Projeto em Destaque):** Atuo diretamente no desenvolvimento desta iniciativa pioneira e de altíssima criticidade para o setor. O projeto, atualmente em andamento, já abrange **mais de 86% do market share nacional**, consolidando-se como a maior e mais detalhada base de dados estratégica da história da indústria farmacêutica no Brasil. Sou responsável pelo processamento, validação e estruturação dessa massa de dados de escala nacional.
+*  **1º Censo da Indústria Farmacêutica (Projeto em Destaque):** Atuo diretamente no desenvolvimento desta iniciativa pioneira e de altíssima criticidade para o setor. O projeto, atualmente em andamento, já abrange **mais de 86% do market share nacional**, consolidando-se como a maior e mais detalhada base de dados estratégica da história da indústria farmacêutica no Brasil. Sou responsável pelo processamento, validação e estruturação dessa massa de dados de escala nacional.
   
-* 📊 **Central de Pesquisas & Benchmarking Setorial:** Atuação de ponta a ponta na estruturação de **mais de 100 pesquisas** voltadas para a Indústria Farmacêutica. Sou responsável por todo o ciclo de vida da informação: desde a formulação estratégica do questionário e implementação para respostas, até a coleta, tabulação dos resultados e entrega dos relatórios aos respondentes. Os dados gerados subsidiam decisões críticas nas áreas **Sindical Trabalhista, Assuntos Regulatórios e Jurídicos**, com forte ênfase na estruturação de bases de dados para pesquisas oficiais do **Ministério da Saúde**.
+*  **Central de Pesquisas & Benchmarking Setorial:** Atuação de ponta a ponta na estruturação de **mais de 100 pesquisas** voltadas para a Indústria Farmacêutica. Sou responsável por todo o ciclo de vida da informação: desde a formulação estratégica do questionário e implementação para respostas, até a coleta, tabulação dos resultados e entrega dos relatórios aos respondentes. Os dados gerados subsidiam decisões críticas nas áreas **Sindical Trabalhista, Assuntos Regulatórios e Jurídicos**, com forte ênfase na estruturação de bases de dados para pesquisas oficiais do **Ministério da Saúde**.
 
-* 🤖 **Escola de Agentes Sindusfarma (IA & Automação):** Integro o Squad Digital no desenvolvimento de soluções de Inteligência Artificial e automações avançadas via **n8n**, com foco em ganho de eficiência operacional e triagem semântica de grandes volumes de dados.
+* **Escola de Agentes Sindusfarma (IA & Automação):** Integro o Squad Digital no desenvolvimento de soluções de Inteligência Artificial e automações avançadas via **n8n**, com foco em ganho de eficiência operacional e triagem semântica de grandes volumes de dados.
 
 <br/>
 
@@ -42,25 +42,25 @@ Minha prática diária é voltada para a construção de pipelines robustos e es
 
 <div align="left">
 
-### ⚙️ Data Processing & Big Data
+###  Data Processing & Big Data
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
 <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
 <img src="https://img.shields.io/badge/Amazon%20EMR-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" />
 
-### 🗄️ Data Storage & Databases
+###  Data Storage & Databases
 <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
 <img src="https://img.shields.io/badge/Amazon%20Athena-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
 <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white" />
 <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
-### 🔄 Data Pipelines & Orchestration
+###  Data Pipelines & Orchestration
 <img src="https://img.shields.io/badge/Step%20Functions-FF4F8B?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
 <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
 
-### 🤖 Data Analytics & AI Integrations
+###  Data Analytics & AI Integrations
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 <img src="https://img.shields.io/badge/SurveyMonkey-00BF6F?style=for-the-badge&logo=surveymonkey&logoColor=white" />
