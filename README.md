@@ -24,7 +24,7 @@
 
 ## O Que Eu Faço e Meu Impacto
 
-Atuo na **Central de Pesquisas**, um núcleo estratégico onde transformo dados complexos em ativos de decisão para a indústria nacional, com foco na construção de bases sólidas para benchmarking e suporte à governança corporativa.
+Trabalho na **Central de Pesquisas** lidando diretamente com os dados da indústria farmacêutica. Meu papel como analista é bem focado: eu estruturo e organizo pesquisas de benchmarking para que o setor entenda o cenário nacional com base em dados reais..
 
 ### Projetos de Alto Impacto:
 
